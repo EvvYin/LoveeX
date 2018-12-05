@@ -1,0 +1,12 @@
+Girl i = new Girl ('Eva')
+Boy u = new Boy ('Xwy')
+i. love(u)
+u.accepted()
+i.miss(u)
+i.takeCareOf(u)
+Boolean isHesitate = true
+while (isHesitate){
+	i.waitfor(u);
+    isHesitate = u.thinkOver();}
+i.marry(u)
+i.livehappilyWith(u)
